@@ -1,0 +1,17 @@
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\bin\Debug\Braille Assist App.exe.config
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\bin\Debug\Braille Assist App.exe
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\bin\Debug\Braille Assist App.pdb
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\obj\Debug\Braille Assist App.csproj.AssemblyReference.cache
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\obj\Debug\Braille Assist App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\obj\Debug\Braille_Assist_App.Properties.Resources.resources
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\obj\Debug\Braille Assist App.csproj.GenerateResource.cache
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\obj\Debug\Braille Assist App.csproj.CoreCompileInputs.cache
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\obj\Debug\Braille Assist App.exe
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\obj\Debug\Braille Assist App.pdb
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\bin\Debug\MaterialSkin.dll
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\obj\Debug\Braille Assist App.csproj.CopyComplete
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\obj\Debug\Braille_Assist_App.Form1.resources
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\bin\Debug\Braille Assist App.exe.manifest
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\bin\Debug\Braille Assist App.application
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\obj\Debug\Braille Assist App.exe.manifest
+C:\Users\Lab_pc\Downloads\sharp\Braille-Translator-main\Braille Assist App\obj\Debug\Braille Assist App.application
